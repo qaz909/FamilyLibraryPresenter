@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>FamilyLibraryPresenter</Name>
+    <Assembly>C:\RevitPlugins\FamilyLibraryPresenter\FamilyLibraryPresenter.dll</Assembly>
+    <AddInId>6FC1D8AF-3C1F-430D-A9F7-57A482641FFE</AddInId>
+    <FullClassName>FamilyLibraryPresenter.FamilyLibraryCommand</FullClassName>
+    <VendorId>Company</VendorId>
+    <VendorDescription>Company Name</VendorDescription>
+  </AddIn>
+</RevitAddIns>
